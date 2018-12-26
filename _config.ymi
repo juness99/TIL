@@ -11,8 +11,8 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "dodream ssss"
 url                      : "https://juness99.github.io"
-baseurl                  :  "/TIL"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/TIL"
+repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
